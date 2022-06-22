@@ -1,7 +1,7 @@
 # <img src="https://tinypic.host/images/2022/06/22/fomlahault.png" style="width: 50px"> frontend dev.
 <div style="display: inline-block;">
-<img src="https://github-readme-stats.vercel.app/api?username=floyare&&show_icons=true&theme=midnight-purple" style="height: 250px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=floyare&langs_count=5&theme=midnight-purple" style="height: 250px;">
+<img src="https://github-readme-stats.vercel.app/api?username=floyare&&show_icons=true&theme=midnight-purple" style="height: 200px;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=floyare&langs_count=5&theme=midnight-purple" style="height: 200px;">
 </div>
 
 <a href="https://discord.com/"><img src="https://img.shields.io/badge/-floyare_1186-000000?style=flat-square&logo=discord&logoColor=7F3ACE"></a>
