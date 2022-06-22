@@ -7,6 +7,7 @@
 <a href="https://discord.com/"><img src="https://img.shields.io/badge/-floyare_1186-000000?style=flat-square&logo=discord&logoColor=7F3ACE"></a>
 <a href="https://steamcommunity.com/id/floyarestyles/"><img src="https://img.shields.io/badge/-funnע-000000?style=flat-square&logo=steam&logoColor=7F3ACE"></a>
 <a href="https://www.youtube.com/channel/UCdRj56rXHKHF40T0Of36s3A"><img src="https://img.shields.io/badge/-floyare-000000?style=flat-square&logo=youtube&logoColor=7F3ACE"></a>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=floyare.floyare&left_color=black&right_color=%237F3ACE">
 
 ## Roadmap
 - :heavy_check_mark: <img src="https://img.shields.io/badge/-HTML-000000?style=flat-square&logo=html5&logoColor=7F3ACE">
