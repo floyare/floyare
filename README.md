@@ -1,4 +1,4 @@
-# <img src="https://tinypic.host/images/2022/06/22/fomlahault.png" style="width: 50px"> frontend dev.
+# <img src="https://lh6.googleusercontent.com/jZWMicLIxIQj7pJEsFBmQz07JD5AE953Xcr_2c6Rq6YnjqXvugOBuMxbiI3zxN03vyIlVYl2n37kWp9PPrhV=w1920-h977-rw" style="width: 50px"> frontend dev.
 <div style="display: inline-block;">
 <img src="https://github-readme-stats.vercel.app/api?username=floyare&&show_icons=true&theme=midnight-purple" style="height: 200px;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=floyare&langs_count=5&theme=midnight-purple" style="height: 200px;">
@@ -19,7 +19,7 @@
 - :x: <img src="https://img.shields.io/badge/-Nuxt.js-000000?style=flat-square&logo=nuxtdotjs&logoColor=7F3ACE">
 
 <div style="display: inline-block;">
-<img src="https://tinypic.host/images/2022/06/22/JUSTSTYLES_LOGO_NEW_500.png" style="height: 50px;">
+<img src="https://lh4.googleusercontent.com/SK3NZBGQajd2VM_0MYe2mcr-TSe-EkTEpmUKPdnGQ3FPOc4OCfbFGTmrkgrwhKadk4aT1CUqvqZKjRiRLhiK=w1920-h977-rw" style="height: 50px;">
 </div>
 <!--
 **floyare/floyare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
