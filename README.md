@@ -14,8 +14,8 @@
 - :heavy_check_mark: <img src="https://img.shields.io/badge/-CSS-000000?style=flat-square&logo=css3&logoColor=7F3ACE">
 - :heavy_check_mark: <img src="https://img.shields.io/badge/-Javascript-000000?style=flat-square&logo=javascript&logoColor=7F3ACE">
 - :heavy_check_mark: <img src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=7F3ACE">
-- :large_orange_diamond: <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=7F3ACE">
-- :x: <img src="https://img.shields.io/badge/-Vue.js-000000?style=flat-square&logo=vuedotjs&logoColor=7F3ACE">
+- :heavy_check_mark: <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=7F3ACE">
+- :large_orange_diamond: <img src="https://img.shields.io/badge/-Vue.js-000000?style=flat-square&logo=vuedotjs&logoColor=7F3ACE">
 - :x: <img src="https://img.shields.io/badge/-Nuxt.js-000000?style=flat-square&logo=nuxtdotjs&logoColor=7F3ACE">
 
 <div style="display: inline-block;">
