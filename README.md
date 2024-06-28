@@ -2,7 +2,6 @@
 <div style="">
 <img src="https://github-readme-stats.vercel.app/api?username=floyare&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" style="height: 180px;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=floyare&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" style="height: 180px;">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=floyare&theme=midnight-purple&hide_border=true" style="height: 180px;">
 </div>
 
 <a href="https://discord.com/"><img src="https://img.shields.io/badge/-floyare-000000?style=flat-square&logo=discord&logoColor=7F3ACE"></a>
