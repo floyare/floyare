@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://i.ibb.co/kB7V82t/floyare-bxc.webp" style="width: 760px">
-<img src="https://i.ibb.co/cT7cxdM/frontend-developer.webp" style="width: 760px">
+<img src="https://i.postimg.cc/2SqJVj0k/floyare-bxc.webp" style="width: 760px">
+<img src="https://i.postimg.cc/26x9P1Sw/frontend-developer.webp" style="width: 760px">
 <div style="">
 <img src="https://github-readme-stats.vercel.app/api?username=floyare&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" style="height: 180px;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=floyare&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" style="height: 180px;">
