@@ -2,8 +2,8 @@
 <img src="https://i.postimg.cc/2SqJVj0k/floyare-bxc.webp" style="width: 760px">
 <img src="https://i.postimg.cc/26x9P1Sw/frontend-developer.webp" style="width: 760px">
 <div style="">
-<img src="https://github-readme-stats.vercel.app/api?username=floyare&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" style="height: 180px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=floyare&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" style="height: 180px;">
+<img src="https://github-readme-stats.vercel.app/api?username=floyare&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" style="height: 180px;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=floyare&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&include_all_commits=true" style="height: 180px;">
 </div>
   <a href="https://discord.com/users/460801108634370048"><img src="https://img.shields.io/badge/-floyare-000000?style=flat-square&logo=discord&logoColor=7F3ACE" style="width: 100px"></a>
 <a href="https://steamcommunity.com/id/floyarestyles/"><img src="https://img.shields.io/badge/-niiisan-000000?style=flat-square&logo=steam&logoColor=7F3ACE" style="width: 100px"></a>
