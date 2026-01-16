@@ -1,7 +1,8 @@
 <div align="center">
 <img src="https://i.postimg.cc/2SqJVj0k/floyare-bxc.webp" style="width: 760px">
 <img src="https://i.postimg.cc/26x9P1Sw/frontend-developer.webp" style="width: 760px">
-<div style="">
+<div>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=floyare&theme=midnight-purple&hide_border=false" />
 </div>
   <a href="https://discord.com/users/460801108634370048"><img src="https://img.shields.io/badge/-floyare-000000?style=flat-square&logo=discord&logoColor=7F3ACE" style="width: 100px"></a>
 <a href="https://www.youtube.com/channel/UCdRj56rXHKHF40T0Of36s3A"><img src="https://img.shields.io/badge/-floyare.-000000?style=flat-square&logo=youtube&logoColor=7F3ACE" style="width: 100px"></a>
