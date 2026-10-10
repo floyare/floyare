@@ -6,11 +6,11 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=floyare.floyare&left_color=black&right_color=%237F3ACE" style="width: 100px">
 </div>
 <br />
-<div>
+<div align="center">
   <img src="https://i.ibb.co/hXzPrL4/juststyles-boxed-2024-white.png" style="width: 100px">
   <img src="https://i.ibb.co/G9Hzh3k/fomalhaut-2024-black.png" style="width: 100px">
+  <img src="https://i.ibb.co/5g5z7hp3/star.png" style="width: 803px; height:95px;">
 </div>
-<br />
 <div align="center">
   <img src="https://i.ibb.co/hJCNSV83/flrgrunge-ezgif-com-crop.png" style="width: 1440px">
 </div>
